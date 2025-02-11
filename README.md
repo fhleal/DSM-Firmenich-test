@@ -15,3 +15,7 @@ I might have made some bad choices regarding some libs, most of libs I tried to 
 The endpoints provided were not working to retrieve the images AND test the mutation, so I didn't even tried to build the edit feature, once I couldn't test to make sure everything was working.
 
 I focused on features and didn't have enough time to build the style.
+
+____________________________________________
+
+I started to code around 9am and I had 1 hour for lunch break.
